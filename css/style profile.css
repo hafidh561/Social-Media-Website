@@ -1,0 +1,88 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.navbar-brand {
+	font-size: 1.5em;
+}
+
+.atas {
+	margin-top: 3.8em;
+}
+
+.show-more {
+	color: rgb(119, 112, 112);
+}
+
+.show-more:hover {
+	color: rgb(85, 81, 81);
+}
+
+.text-account {
+	color: rgba(0, 0, 0);
+}
+
+a {
+	color: rgba(0, 0, 0);
+}
+
+a:hover {
+	text-decoration: none;
+	color: rgba(0, 0, 0);
+}
+
+button {
+	padding: 0;
+	border: none;
+	background: none;
+}
+
+.bagian-atas-profile {
+	background-color: rgb(233, 227, 227);
+}
+
+.nama-profile h1 {
+	margin-bottom: -0.1em;
+}
+
+.nama-profile span {
+	font-size: 1.5em;
+}
+
+.bagian-bawah span {
+	color: white;
+}
+
+.bagian-bawah p {
+	color: rgb(184, 176, 176);
+}
+
+.pembatas {
+	background-color: white;
+	height: 0.1em;
+	width: 100vw;
+}
+
+.copyright h5,
+.copyright span {
+	color: white;
+}
+
+li {
+	text-decoration: none;
+}
+
+.pagination > li > a {
+	color: #343a40;
+}
+
+.pagination > .active > a {
+	background-color: #343a40 !important;
+	border: solid 1px #343a40 !important;
+}
+
+.keatas {
+	position: fixed;
+	left: 86vw;
+	bottom: 3vh;
+}

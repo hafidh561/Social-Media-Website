@@ -1,0 +1,63 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.navbar-brand {
+	font-size: 1.5em;
+}
+
+.atas {
+	margin-top: 3.8em;
+}
+
+.text-account {
+	color: rgba(0, 0, 0);
+}
+
+a {
+	color: rgba(0, 0, 0);
+}
+
+a:hover {
+	text-decoration: none;
+	color: rgba(0, 0, 0);
+}
+
+button {
+	padding: 0;
+	border: none;
+	background: none;
+}
+
+.content-article-1 article p {
+	font-size: 1.4em;
+}
+
+.bagian-bawah span {
+	color: white;
+}
+
+.bagian-bawah p {
+	color: rgb(184, 176, 176);
+}
+
+.pembatas {
+	background-color: white;
+	height: 0.1em;
+	width: 100vw;
+}
+
+.copyright h5,
+.copyright span {
+	color: white;
+}
+
+li {
+	text-decoration: none;
+}
+
+.keatas {
+	position: fixed;
+	left: 86vw;
+	bottom: 3vh;
+}

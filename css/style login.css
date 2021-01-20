@@ -1,0 +1,46 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.navbar-brand {
+	font-size: 1.5em;
+}
+
+a {
+	color: rgba(0, 0, 0);
+}
+
+a:hover {
+	text-decoration: none;
+	color: rgba(0, 0, 0);
+}
+
+button {
+	padding: 0;
+	border: none;
+	background: none;
+}
+
+.content {
+	margin-top: 20vh;
+	margin-bottom: 15vh;
+}
+
+.display-4 {
+	margin-bottom: 1em;
+}
+
+section {
+	background-color: white;
+}
+
+.kolom-input {
+	border: none;
+	border-bottom: 1px solid #343a40;
+	border-radius: 0px;
+}
+
+.kolom-input:focus {
+	box-shadow: none !important;
+	border-bottom: 1px solid #435568;
+}
